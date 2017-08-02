@@ -1,0 +1,21 @@
+PODS:
+  - AOARExperience (0.1.0)
+
+DEPENDENCIES:
+  - AOARExperience (from `https://github.com/Papercloud/AOARExperience`)
+
+EXTERNAL SOURCES:
+  AOARExperience:
+    :git: https://github.com/Papercloud/AOARExperience
+
+CHECKOUT OPTIONS:
+  AOARExperience:
+    :commit: 9d4394a9fe417d5c2591cd16e8553e9a1548393d
+    :git: https://github.com/Papercloud/AOARExperience
+
+SPEC CHECKSUMS:
+  AOARExperience: 0c1a92c9d53d062744ead77baf2e8dc4c0c64e7c
+
+PODFILE CHECKSUM: c8f33a91046ed40dfdf620fe04c77c0b8e5e436e
+
+COCOAPODS: 1.3.0.beta.1

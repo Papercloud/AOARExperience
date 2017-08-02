@@ -1,0 +1,6 @@
+framework module AOARExperience {
+  umbrella header "AOARExperience.h"
+
+  export *
+  module * { export * }
+}
