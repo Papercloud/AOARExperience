@@ -24,18 +24,4 @@
     [BSWVisionViewController presentFrom:self];
 }
 
-#pragma mark BSWEventDelegate
-
-- (void)clockWasDetected {
-    NSLog(@"Clock was detected");
-}
-
-- (void)userEnteredPark {
-    NSLog(@"User entered park");
-}
-
-- (void)userLeftPark {
-    NSLog(@"User left park");
-}
-
 @end
