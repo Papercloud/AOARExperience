@@ -7,90 +7,90 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22BCC166A1FC806B4387B078 /* Pods_AOExampleImplementation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2AAF1AA7973892F8BCFAD5D /* Pods_AOExampleImplementation.framework */; };
-		C6D38EDF1F2EDBB400AB71BD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C6D38EDE1F2EDBB400AB71BD /* AppDelegate.m */; };
-		C6D38EE21F2EDBB400AB71BD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6D38EE11F2EDBB400AB71BD /* ViewController.m */; };
-		C6D38EE51F2EDBB400AB71BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6D38EE31F2EDBB400AB71BD /* Main.storyboard */; };
-		C6D38EE71F2EDBB400AB71BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6D38EE61F2EDBB400AB71BD /* Assets.xcassets */; };
-		C6D38EEA1F2EDBB400AB71BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6D38EE81F2EDBB400AB71BD /* LaunchScreen.storyboard */; };
-		C6D38EED1F2EDBB400AB71BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C6D38EEC1F2EDBB400AB71BD /* main.m */; };
+		4A06386B76FC81604C62A023 /* libPods-AOExampleImplementation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E38D4386B1BB34AE632D2ED /* libPods-AOExampleImplementation.a */; };
+		C64BD87B1F31C064000097DF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C64BD87A1F31C064000097DF /* AppDelegate.m */; };
+		C64BD87E1F31C064000097DF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64BD87D1F31C064000097DF /* ViewController.m */; };
+		C64BD8811F31C064000097DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64BD87F1F31C064000097DF /* Main.storyboard */; };
+		C64BD8831F31C064000097DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C64BD8821F31C064000097DF /* Assets.xcassets */; };
+		C64BD8861F31C064000097DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64BD8841F31C064000097DF /* LaunchScreen.storyboard */; };
+		C64BD8891F31C064000097DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C64BD8881F31C064000097DF /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B4EF6B6258E479F3680A112B /* Pods-AOExampleImplementation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AOExampleImplementation.release.xcconfig"; path = "Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation.release.xcconfig"; sourceTree = "<group>"; };
-		C2AAF1AA7973892F8BCFAD5D /* Pods_AOExampleImplementation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AOExampleImplementation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3E6AD63DB18A26820B6E96B /* Pods-AOExampleImplementation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AOExampleImplementation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation.debug.xcconfig"; sourceTree = "<group>"; };
-		C6D38EDA1F2EDBB400AB71BD /* AOExampleImplementation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AOExampleImplementation.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6D38EDD1F2EDBB400AB71BD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		C6D38EDE1F2EDBB400AB71BD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C6D38EE01F2EDBB400AB71BD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C6D38EE11F2EDBB400AB71BD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		C6D38EE41F2EDBB400AB71BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C6D38EE61F2EDBB400AB71BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C6D38EE91F2EDBB400AB71BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C6D38EEB1F2EDBB400AB71BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C6D38EEC1F2EDBB400AB71BD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		89C041B117C9795561B62582 /* Pods-AOExampleImplementation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AOExampleImplementation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation.debug.xcconfig"; sourceTree = "<group>"; };
+		8E38D4386B1BB34AE632D2ED /* libPods-AOExampleImplementation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AOExampleImplementation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C64BD8761F31C064000097DF /* AOExampleImplementation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AOExampleImplementation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C64BD8791F31C064000097DF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C64BD87A1F31C064000097DF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C64BD87C1F31C064000097DF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C64BD87D1F31C064000097DF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C64BD8801F31C064000097DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C64BD8821F31C064000097DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C64BD8851F31C064000097DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C64BD8871F31C064000097DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C64BD8881F31C064000097DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D53E7A5E431AB57640AAC422 /* Pods-AOExampleImplementation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AOExampleImplementation.release.xcconfig"; path = "Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C6D38ED71F2EDBB400AB71BD /* Frameworks */ = {
+		C64BD8731F31C064000097DF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22BCC166A1FC806B4387B078 /* Pods_AOExampleImplementation.framework in Frameworks */,
+				4A06386B76FC81604C62A023 /* libPods-AOExampleImplementation.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7AC1435E9CFA14AFFC2B749B /* Frameworks */ = {
+		AE13162B153BEDBC6C1E4FC2 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C2AAF1AA7973892F8BCFAD5D /* Pods_AOExampleImplementation.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		A0289053733641FAD73D049F /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				C3E6AD63DB18A26820B6E96B /* Pods-AOExampleImplementation.debug.xcconfig */,
-				B4EF6B6258E479F3680A112B /* Pods-AOExampleImplementation.release.xcconfig */,
+				89C041B117C9795561B62582 /* Pods-AOExampleImplementation.debug.xcconfig */,
+				D53E7A5E431AB57640AAC422 /* Pods-AOExampleImplementation.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		C6D38ED11F2EDBB400AB71BD = {
+		BC52C58AE57CB817C677210A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C6D38EDC1F2EDBB400AB71BD /* AOExampleImplementation */,
-				C6D38EDB1F2EDBB400AB71BD /* Products */,
-				A0289053733641FAD73D049F /* Pods */,
-				7AC1435E9CFA14AFFC2B749B /* Frameworks */,
+				8E38D4386B1BB34AE632D2ED /* libPods-AOExampleImplementation.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C64BD86D1F31C064000097DF = {
+			isa = PBXGroup;
+			children = (
+				C64BD8781F31C064000097DF /* AOExampleImplementation */,
+				C64BD8771F31C064000097DF /* Products */,
+				AE13162B153BEDBC6C1E4FC2 /* Pods */,
+				BC52C58AE57CB817C677210A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		C6D38EDB1F2EDBB400AB71BD /* Products */ = {
+		C64BD8771F31C064000097DF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C6D38EDA1F2EDBB400AB71BD /* AOExampleImplementation.app */,
+				C64BD8761F31C064000097DF /* AOExampleImplementation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C6D38EDC1F2EDBB400AB71BD /* AOExampleImplementation */ = {
+		C64BD8781F31C064000097DF /* AOExampleImplementation */ = {
 			isa = PBXGroup;
 			children = (
-				C6D38EDD1F2EDBB400AB71BD /* AppDelegate.h */,
-				C6D38EDE1F2EDBB400AB71BD /* AppDelegate.m */,
-				C6D38EE01F2EDBB400AB71BD /* ViewController.h */,
-				C6D38EE11F2EDBB400AB71BD /* ViewController.m */,
-				C6D38EE31F2EDBB400AB71BD /* Main.storyboard */,
-				C6D38EE61F2EDBB400AB71BD /* Assets.xcassets */,
-				C6D38EE81F2EDBB400AB71BD /* LaunchScreen.storyboard */,
-				C6D38EEB1F2EDBB400AB71BD /* Info.plist */,
-				C6D38EEC1F2EDBB400AB71BD /* main.m */,
+				C64BD8791F31C064000097DF /* AppDelegate.h */,
+				C64BD87A1F31C064000097DF /* AppDelegate.m */,
+				C64BD87C1F31C064000097DF /* ViewController.h */,
+				C64BD87D1F31C064000097DF /* ViewController.m */,
+				C64BD87F1F31C064000097DF /* Main.storyboard */,
+				C64BD8821F31C064000097DF /* Assets.xcassets */,
+				C64BD8841F31C064000097DF /* LaunchScreen.storyboard */,
+				C64BD8871F31C064000097DF /* Info.plist */,
+				C64BD8881F31C064000097DF /* main.m */,
 			);
 			path = AOExampleImplementation;
 			sourceTree = "<group>";
@@ -98,16 +98,16 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C6D38ED91F2EDBB400AB71BD /* AOExampleImplementation */ = {
+		C64BD8751F31C064000097DF /* AOExampleImplementation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C6D38EF01F2EDBB400AB71BD /* Build configuration list for PBXNativeTarget "AOExampleImplementation" */;
+			buildConfigurationList = C64BD88C1F31C064000097DF /* Build configuration list for PBXNativeTarget "AOExampleImplementation" */;
 			buildPhases = (
-				E6D392113E7F715FAF62925C /* [CP] Check Pods Manifest.lock */,
-				C6D38ED61F2EDBB400AB71BD /* Sources */,
-				C6D38ED71F2EDBB400AB71BD /* Frameworks */,
-				C6D38ED81F2EDBB400AB71BD /* Resources */,
-				1303A1BC96F14CD47C69437B /* [CP] Embed Pods Frameworks */,
-				E12790BEE8A5B283C2AE87A8 /* [CP] Copy Pods Resources */,
+				CA87E585551278E80A2E51F7 /* [CP] Check Pods Manifest.lock */,
+				C64BD8721F31C064000097DF /* Sources */,
+				C64BD8731F31C064000097DF /* Frameworks */,
+				C64BD8741F31C064000097DF /* Resources */,
+				E0FC5D7929BD535932FCB884 /* [CP] Embed Pods Frameworks */,
+				2DB704BA319A177F261D6297 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -115,24 +115,24 @@
 			);
 			name = AOExampleImplementation;
 			productName = AOExampleImplementation;
-			productReference = C6D38EDA1F2EDBB400AB71BD /* AOExampleImplementation.app */;
+			productReference = C64BD8761F31C064000097DF /* AOExampleImplementation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C6D38ED21F2EDBB400AB71BD /* Project object */ = {
+		C64BD86E1F31C064000097DF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = Papercloud;
 				TargetAttributes = {
-					C6D38ED91F2EDBB400AB71BD = {
+					C64BD8751F31C064000097DF = {
 						CreatedOnToolsVersion = 9.0;
 					};
 				};
 			};
-			buildConfigurationList = C6D38ED51F2EDBB400AB71BD /* Build configuration list for PBXProject "AOExampleImplementation" */;
+			buildConfigurationList = C64BD8711F31C064000097DF /* Build configuration list for PBXProject "AOExampleImplementation" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -140,46 +140,31 @@
 				en,
 				Base,
 			);
-			mainGroup = C6D38ED11F2EDBB400AB71BD;
-			productRefGroup = C6D38EDB1F2EDBB400AB71BD /* Products */;
+			mainGroup = C64BD86D1F31C064000097DF;
+			productRefGroup = C64BD8771F31C064000097DF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C6D38ED91F2EDBB400AB71BD /* AOExampleImplementation */,
+				C64BD8751F31C064000097DF /* AOExampleImplementation */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C6D38ED81F2EDBB400AB71BD /* Resources */ = {
+		C64BD8741F31C064000097DF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6D38EEA1F2EDBB400AB71BD /* LaunchScreen.storyboard in Resources */,
-				C6D38EE71F2EDBB400AB71BD /* Assets.xcassets in Resources */,
-				C6D38EE51F2EDBB400AB71BD /* Main.storyboard in Resources */,
+				C64BD8861F31C064000097DF /* LaunchScreen.storyboard in Resources */,
+				C64BD8831F31C064000097DF /* Assets.xcassets in Resources */,
+				C64BD8811F31C064000097DF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1303A1BC96F14CD47C69437B /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E12790BEE8A5B283C2AE87A8 /* [CP] Copy Pods Resources */ = {
+		2DB704BA319A177F261D6297 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -194,7 +179,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E6D392113E7F715FAF62925C /* [CP] Check Pods Manifest.lock */ = {
+		CA87E585551278E80A2E51F7 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -209,34 +194,49 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
+		E0FC5D7929BD535932FCB884 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AOExampleImplementation/Pods-AOExampleImplementation-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C6D38ED61F2EDBB400AB71BD /* Sources */ = {
+		C64BD8721F31C064000097DF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6D38EE21F2EDBB400AB71BD /* ViewController.m in Sources */,
-				C6D38EED1F2EDBB400AB71BD /* main.m in Sources */,
-				C6D38EDF1F2EDBB400AB71BD /* AppDelegate.m in Sources */,
+				C64BD87E1F31C064000097DF /* ViewController.m in Sources */,
+				C64BD8891F31C064000097DF /* main.m in Sources */,
+				C64BD87B1F31C064000097DF /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C6D38EE31F2EDBB400AB71BD /* Main.storyboard */ = {
+		C64BD87F1F31C064000097DF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C6D38EE41F2EDBB400AB71BD /* Base */,
+				C64BD8801F31C064000097DF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C6D38EE81F2EDBB400AB71BD /* LaunchScreen.storyboard */ = {
+		C64BD8841F31C064000097DF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C6D38EE91F2EDBB400AB71BD /* Base */,
+				C64BD8851F31C064000097DF /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -244,7 +244,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C6D38EEE1F2EDBB400AB71BD /* Debug */ = {
+		C64BD88A1F31C064000097DF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -297,7 +297,7 @@
 			};
 			name = Debug;
 		};
-		C6D38EEF1F2EDBB400AB71BD /* Release */ = {
+		C64BD88B1F31C064000097DF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -344,44 +344,30 @@
 			};
 			name = Release;
 		};
-		C6D38EF11F2EDBB400AB71BD /* Debug */ = {
+		C64BD88D1F31C064000097DF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C3E6AD63DB18A26820B6E96B /* Pods-AOExampleImplementation.debug.xcconfig */;
+			baseConfigurationReference = 89C041B117C9795561B62582 /* Pods-AOExampleImplementation.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
 				DEVELOPMENT_TEAM = DFA43C329P;
-				HEADER_SEARCH_PATHS = (
-					"../Bswarm-AR-Experience/libraries/vuforia/include",
-					"$(inherited)",
-				);
 				INFOPLIST_FILE = AOExampleImplementation/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = au.com.papercloud.AOExampleImplementation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		C6D38EF21F2EDBB400AB71BD /* Release */ = {
+		C64BD88E1F31C064000097DF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B4EF6B6258E479F3680A112B /* Pods-AOExampleImplementation.release.xcconfig */;
+			baseConfigurationReference = D53E7A5E431AB57640AAC422 /* Pods-AOExampleImplementation.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
 				DEVELOPMENT_TEAM = DFA43C329P;
-				HEADER_SEARCH_PATHS = (
-					"../Bswarm-AR-Experience/libraries/vuforia/include",
-					"$(inherited)",
-				);
 				INFOPLIST_FILE = AOExampleImplementation/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = au.com.papercloud.AOExampleImplementation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -391,25 +377,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C6D38ED51F2EDBB400AB71BD /* Build configuration list for PBXProject "AOExampleImplementation" */ = {
+		C64BD8711F31C064000097DF /* Build configuration list for PBXProject "AOExampleImplementation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6D38EEE1F2EDBB400AB71BD /* Debug */,
-				C6D38EEF1F2EDBB400AB71BD /* Release */,
+				C64BD88A1F31C064000097DF /* Debug */,
+				C64BD88B1F31C064000097DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C6D38EF01F2EDBB400AB71BD /* Build configuration list for PBXNativeTarget "AOExampleImplementation" */ = {
+		C64BD88C1F31C064000097DF /* Build configuration list for PBXNativeTarget "AOExampleImplementation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6D38EF11F2EDBB400AB71BD /* Debug */,
-				C6D38EF21F2EDBB400AB71BD /* Release */,
+				C64BD88D1F31C064000097DF /* Debug */,
+				C64BD88E1F31C064000097DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C6D38ED21F2EDBB400AB71BD /* Project object */;
+	rootObject = C64BD86E1F31C064000097DF /* Project object */;
 }
