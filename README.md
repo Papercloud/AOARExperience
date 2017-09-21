@@ -4,11 +4,34 @@ This is the library that provides the AR experience for the Australian Open app.
 
 ## Installation
 
-`AOARExperience` is installed via Cocoapods, by adding the following line to your podfile:
+### Cocoapods
 
+`AOARExperience` can be installed via Cocoapods, by adding the following line to your podfile:
 ```
 pod 'AOARExperience', git: 'https://github.com/Papercloud/AOARExperience'
 ```
+and then running
+```
+pod install
+```
+
+### Manual
+
+If you want to add `AOARExperience` manually, you can follow this steps:
+
+1. Download `AOARExperience.framework` from this repository.
+
+2. Drag the framework into the project:
+
+   ![image](https://user-images.githubusercontent.com/5781314/30682440-04000c52-9eed-11e7-99d1-615f8fa1547c.png)
+
+   Make sure that the <b>Copy items if needed</b> box is checked once the framework is dragged.
+
+3. Click on your project in the file navigator, and then in your app target.
+
+4. Make sure that `AOARExperience.framework` appears both in <b>Embedded Binaries</b> and <b>Linked Frameworks and Libraries</b>.
+
+Build and run to check that the installation was successful.
 
 ## Usage
 
