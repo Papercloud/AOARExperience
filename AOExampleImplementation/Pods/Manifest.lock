@@ -10,12 +10,12 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AOARExperience:
-    :commit: 9d4394a9fe417d5c2591cd16e8553e9a1548393d
+    :commit: 6cdd80c7e38c89210b98744f474a4ebce3007ccc
     :git: https://github.com/Papercloud/AOARExperience
 
 SPEC CHECKSUMS:
-  AOARExperience: 0c1a92c9d53d062744ead77baf2e8dc4c0c64e7c
+  AOARExperience: 9be01a84ebcb0e7468709d85b11422d72c9a4176
 
 PODFILE CHECKSUM: 99aff992c186937f70d1a64085f935df16847316
 
-COCOAPODS: 1.3.0.beta.1
+COCOAPODS: 1.3.1

@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+
 #import <AOARExperience/AOARExperience.h>
 
 @interface ViewController ()
@@ -21,7 +22,9 @@
 }
 
 - (IBAction)openARExperience:(id)sender {
-    [BSWVisionViewController presentFrom:self];
+    [self presentViewController:[BSWARExperienceViewController instance]
+                       animated:YES
+                     completion:nil];
 }
 
 @end

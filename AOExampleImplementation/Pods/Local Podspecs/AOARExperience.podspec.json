@@ -10,11 +10,11 @@
     "cb@papercloud.com.au": "cb@papercloud.com.au"
   },
   "source": {
-    "git": "https://github.com/papercloud/Bswarm-AR-Experience.git",
+    "git": "https://github.com/Papercloud/AOARExperience.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "ios": {
     "vendored_frameworks": "AOARExperience.framework"
