@@ -16,4 +16,6 @@ FOUNDATION_EXPORT const unsigned char AOARExperienceVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AOARExperience/PublicHeader.h>
 
+#import <AOARExperience/BSWARExperienceViewController.h>
 #import <AOARExperience/BSWVisionViewController.h>
+
