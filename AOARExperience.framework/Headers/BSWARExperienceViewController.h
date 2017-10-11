@@ -12,5 +12,7 @@
 
 + (instancetype)instance;
 
++ (void)setRegionRestrictionEnabled:(BOOL)enabled;
+
 @end
 

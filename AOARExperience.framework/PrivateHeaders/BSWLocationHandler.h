@@ -19,6 +19,10 @@ typedef enum {
 
 @interface BSWLocationHandler : NSObject
 
+// Enables or disables the accepted region monitoring. If disabled, then accepted
+// region monitoring observers are not notified when entering or exiting the region.
+@property (nonatomic, assign) BOOL acceptedRegionMonitoringEnabled;
+
 + (instancetype)sharedHandler;
 
 - (BOOL)areLocationPermissionsGranted;
