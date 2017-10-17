@@ -8,7 +8,7 @@ This is the library that provides the AR experience for the Australian Open app.
 
 `AOARExperience` can be installed via Cocoapods, by adding the following line to your podfile:
 ```
-pod 'AOARExperience', git: 'https://github.com/Papercloud/AOARExperience'
+pod 'AOARExperience', git: 'https://github.com/bswarm-ar/AOARExperience'
 ```
 and then running
 ```
