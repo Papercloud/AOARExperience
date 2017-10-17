@@ -27,7 +27,7 @@ typedef enum {
 
 - (BOOL)areLocationPermissionsGranted;
 
-- (void)requestLocationPermissionsWithSuccess:(void (^)())success
+- (void)requestLocationPermissionsWithSuccess:(void (^)(void))success
                                       failure:(void (^)(NSError *))failure;
 
 - (void)checkLocationIsWithinAcceptedRegionWithSuccess:(void (^)(BOOL))success
