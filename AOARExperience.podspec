@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.author           = { 'cb@papercloud.com.au' => 'cb@papercloud.com.au' }
   s.source           = { :git => 'https://github.com/Papercloud/AOARExperience.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.ios.vendored_frameworks = 'AOARExperience.framework'
 end
