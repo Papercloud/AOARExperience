@@ -41,10 +41,11 @@ To use `AOARExperience` in your project, import the library in the source file w
 ```
 and then present `BSWARExperienceViewController` from your view controller by doing:
 ```objc
-[self presentViewController:[BSWARExperienceViewController instance]
+[self presentViewController:[BSWARExperienceViewController instanceWithMode:mode]
                    animated:YES
                  completion:nil];
 ```
+`mode` can be `BSWARExperienceModeStatues` or `BSWARExperienceModeRolex`, depending on whether the AR experience will be used to detect Melbourne Park statues, or Rolex logos.
 
 ## Permissions
 
