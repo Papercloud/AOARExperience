@@ -6,9 +6,8 @@
 //  Copyright © 2017 Papercloud. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
 #import "BSWRootContentViewController.h"
+#import "BSWARExperienceViewController.h"
 
 @protocol BSWOnboardingInstructionsViewControllerDelegate;
 
@@ -16,7 +15,11 @@
 
 @property (nonatomic, weak) id<BSWOnboardingInstructionsViewControllerDelegate> delegate;
 
-+ (instancetype)instance;
++ (instancetype)instanceWithMode:(BSWARExperienceMode)mode;
+
++ (BOOL)instructionsHaveBeenSeenForMode:(BSWARExperienceMode)mode;
+
++ (void)setInstructionsHaveBeenSeen:(BOOL)seen forMode:(BSWARExperienceMode)mode;
 
 @end
 

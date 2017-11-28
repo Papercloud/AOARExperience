@@ -8,9 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+#import "BSWARExperienceViewController.h"
+
 @interface BSWLivestreamViewController : UIViewController
 
-+ (instancetype)instance;
++ (instancetype)instanceWithMode:(BSWARExperienceMode)mode;
 
 @end
 

@@ -8,9 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
+typedef NS_ENUM(NSUInteger, BSWARExperienceMode) {
+    BSWARExperienceModeStatues,
+    BSWARExperienceModeRolex
+};
+
 @interface BSWARExperienceViewController : UIViewController
 
-+ (instancetype)instance;
++ (instancetype)instanceWithMode:(BSWARExperienceMode)mode;
 
 + (void)setRegionRestrictionEnabled:(BOOL)enabled;
 
