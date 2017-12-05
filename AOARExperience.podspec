@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AOARExperience'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'AOARExperience'
 
   s.homepage         = 'https://github.com/papercloud/AOARExperience'
